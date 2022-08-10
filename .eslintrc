@@ -1,0 +1,13 @@
+{ "extends": [
+    "standard",
+    "plugin:react/recommended",
+    "plugin:react/jsx-runtime",
+    "plugin:@next/next/recommended"
+  ],
+  "rules": {
+    "react/prop-types": "off"
+  },
+  "env": {
+    "browser": true
+  }
+}

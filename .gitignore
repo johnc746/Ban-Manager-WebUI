@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+coverage
+npm-debug.log
+typings*
+.sync
+.env
+.nyc_output/
+.next
+bundles
+.travis/*.key
+.travis/*.key.pub
+public/images/opengraph/cache
